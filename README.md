@@ -16,19 +16,15 @@ Lab 1 project for "Advanced Web Technologies" — a small course catalog built w
 
 ## Getting started
 
-```bash
+\`\`\`bash
 npm install
 npm run dev
-```
+\`\`\`
 
 Open http://localhost:3000.
 
 To verify the production build (also checks `generateStaticParams`):
 
-```bash
+\`\`\`bash
 npm run build
-```
-
-## Deployment
-
-_Add your Vercel link here if you deploy it (bonus task)._
+\`\`\`
